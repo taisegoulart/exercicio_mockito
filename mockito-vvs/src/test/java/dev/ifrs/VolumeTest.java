@@ -18,8 +18,8 @@ AudioManager audio;
 
 @Test
 public void testAudioManagerSetVolume() {
-    // TODO 3 - Realizando uma chamada para o método maximizeVolume do objeto VolumeUtil
+    // TODO Realizando uma chamada para o método maximizeVolume do objeto VolumeUtil
 
-    // TODO 4 - Verificando se o método setVolume foi chamado uma única vez --> usar assert
+    // TODO Verificando se o método setVolume foi chamado uma única vez --> usar assert
 }
 }
